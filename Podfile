@@ -1,0 +1,7 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios ,'7.0'
+    pod 'TouchJSON', '~> 1.1'
+    pod 'Emoticonizer', '~> 1.0'
+    pod 'NZAlertView', '~> 0.0.13'
+    pod 'AFNetworking','~>1.3.0'
+    pod 'Base64', '~> 1.0.1'
